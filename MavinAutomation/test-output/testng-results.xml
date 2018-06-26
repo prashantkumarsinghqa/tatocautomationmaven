@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12897" started-at="2018-06-26T11:36:00Z" finished-at="2018-06-26T11:36:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12897" started-at="2018-06-26T11:36:00Z" finished-at="2018-06-26T11:36:13Z">
+      <class name="com.Maven.tatoc.MavinAutomation.MavenMainTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.Maven.tatoc.MavinAutomation.MavenMainTest@2a2d45ba]" name="launchBrowser" is-config="true" duration-ms="8156" started-at="2018-06-26T17:06:00Z" finished-at="2018-06-26T17:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyBasicCourseSelection()[pri:0, instance:com.Maven.tatoc.MavinAutomation.MavenMainTest@2a2d45ba]" name="verifyBasicCourseSelection" duration-ms="178" started-at="2018-06-26T17:06:08Z" finished-at="2018-06-26T17:06:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBasicCourseSelection -->
+        <test-method status="PASS" signature="verifyGreenBoxSelected()[pri:1, instance:com.Maven.tatoc.MavinAutomation.MavenMainTest@2a2d45ba]" name="verifyGreenBoxSelected" duration-ms="239" started-at="2018-06-26T17:06:09Z" finished-at="2018-06-26T17:06:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGreenBoxSelected -->
+        <test-method status="PASS" signature="verifyBoxColorSame()[pri:2, instance:com.Maven.tatoc.MavinAutomation.MavenMainTest@2a2d45ba]" name="verifyBoxColorSame" duration-ms="1433" started-at="2018-06-26T17:06:09Z" finished-at="2018-06-26T17:06:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBoxColorSame -->
+        <test-method status="PASS" signature="verifyDragPerformed()[pri:3, instance:com.Maven.tatoc.MavinAutomation.MavenMainTest@2a2d45ba]" name="verifyDragPerformed" duration-ms="266" started-at="2018-06-26T17:06:10Z" finished-at="2018-06-26T17:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDragPerformed -->
+        <test-method status="PASS" signature="verifyTextEnteredInPopupWindow()[pri:4, instance:com.Maven.tatoc.MavinAutomation.MavenMainTest@2a2d45ba]" name="verifyTextEnteredInPopupWindow" duration-ms="1544" started-at="2018-06-26T17:06:11Z" finished-at="2018-06-26T17:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTextEnteredInPopupWindow -->
+        <test-method status="PASS" signature="verifyCookieAdded()[pri:5, instance:com.Maven.tatoc.MavinAutomation.MavenMainTest@2a2d45ba]" name="verifyCookieAdded" duration-ms="230" started-at="2018-06-26T17:06:12Z" finished-at="2018-06-26T17:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCookieAdded -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Maven.tatoc.MavinAutomation.MavenMainTest@2a2d45ba]" name="closeBrowser" is-config="true" duration-ms="809" started-at="2018-06-26T17:06:12Z" finished-at="2018-06-26T17:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Maven.tatoc.MavinAutomation.MavenMainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
